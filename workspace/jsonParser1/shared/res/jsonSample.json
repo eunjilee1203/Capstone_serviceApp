@@ -1,0 +1,29 @@
+{"List": {
+    "debug": "on",
+    "window": {
+        "title": "Is an Icon List",
+        "name": "main_window",
+        "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/fun.png",
+        "name": "fun1"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+        "style": "bold",
+        "name": "text1"
+    },
+    "properties" : [
+		{"alignment" : "center"},
+		{"transparency":"80"}
+    ],
+    "datatypes":{
+        "bool": false,
+        "double": 23432543.56546,
+        "int": 357685,
+        "boolean": true
+    }
+}}
